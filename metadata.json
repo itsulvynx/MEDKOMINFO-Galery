@@ -1,0 +1,6 @@
+{
+  "name": "MEDKOMINFO GALERY",
+  "description": "Galeri digital bergaya museum foto Cyanotype untuk dokumentasi terkurasi program kerja Medkominfo HIMATIF periode 2026/2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
